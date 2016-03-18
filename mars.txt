@@ -1,4 +1,5 @@
 Mars is a little smaller than earth, but it's red.
 Mars has two moons, which might be problematic for wolfman.
 It's pretty cold.
-one more chnage.
+Mars is the fourth planet from sun 
+I learn git from swc workshop in ou.
